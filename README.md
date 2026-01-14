@@ -63,29 +63,6 @@ The study analyzes over **10 years of historical stock data**, automatically dow
 * Distributed computing with **Hadoop and Spark** enables efficient handling of large-scale financial datasets
 * Automated data acquisition allows reproducible and scalable forecasting experiments
 
----
-
-## ▶️ How to Run the Project
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Stock_Market_Prediction_AAPL.git
-cd Stock_Market_Prediction_AAPL
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Analysis
-
-* Open the Jupyter notebooks in the `notebooks/` directory
-* Or run scripts from the `src/` folder for data preprocessing, modeling, and evaluation
-
----
 
 ## 🎓 Academic Context
 
