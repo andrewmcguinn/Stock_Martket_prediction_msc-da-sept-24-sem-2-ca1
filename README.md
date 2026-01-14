@@ -1,10 +1,7 @@
 # Stock_Martket_prediction_msc-da-sept-24-sem-2-ca1
 
-# Stock_Market_Prediction_AAPL
 
 **Predicting Stock Prices using Hadoop, Apache Spark, and Deep Learning (RNN & LSTM)**
-
-## 🚀 Recruiter Summary
 
 A large-scale stock market prediction project completed as part of my **MSc in Data Analytics**, integrating **distributed computing** and **deep learning** techniques.
 This project demonstrates the ability to **process large historical datasets**, **apply advanced sequential models (RNN & LSTM)**, and **forecast stock prices** with improved accuracy compared to traditional machine learning models.
